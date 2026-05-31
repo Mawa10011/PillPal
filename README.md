@@ -1,4 +1,4 @@
-# PillPal | DeltaHacks 12 Project 
+# PillPal /// DeltaHacks 12 Project 
 
 ## What is PillPal?
 PillPal is a tool that monitors medication consistency through the use of an ESP32-CAM detection system and a Python caregiver dashboard. The tool detects the movement of a pill being taken, updates a real-time dashboard, logs medication acitvity, and then sends SMS alerts using Twilio. 
