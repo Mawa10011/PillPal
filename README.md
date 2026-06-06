@@ -18,6 +18,27 @@ PillPal is a tool that monitors medication consistency through the use of an ESP
 4. Dashboard updates automatically.
 5. If a dose is missed, the caregiver receives an SMS alert.
 
+## Demo
+### Hardware Setup
+![ESP32-CAM](images/ESP32-CAM_image.png)
+
+The ESP32-CAM monitors the medication tray and captures images for pill detection.
+
+### User Interface
+![App UI](images/App_mockup.png)
+
+The mobile interface allows users to view schedules, receive reminders, and track medication status.
+
+### Caregiver Dashboard
+![Dashboard](images/Dashboard.png)
+
+Caregivers can remotely monitor adherence and view the current medication status in real time.
+
+### SMS Notifications
+![SMS Alert](images/SMS.png)
+
+If a scheduled dose is missed, the system automatically sends a notification through Twilio to the designated caregiver.
+
 ## Technologies Used
 • Python
 • Tkinter
