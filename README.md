@@ -40,21 +40,21 @@ Caregivers can remotely monitor adherence and view the current medication status
 If a scheduled dose is missed, the system automatically sends a notification through Twilio to the designated caregiver.
 
 ## Technologies Used
-• Python
-• Tkinter
-• Twilio API
-• ESP32-CAM concept
-• Image comparison logic
-• Multithreading
+- Python
+- Tkinter
+- Twilio API
+- ESP32-CAM concept
+- Image comparison logic
+- Multithreading
 
 ## Files
-• `caregiver_dashboard.py` - main dashboard interface
-• `pill_detect.py` - pill detection logic
-• `med_history.txt` - generated medication log file
+- `caregiver_dashboard.py` - main dashboard interface
+- `pill_detect.py` - pill detection logic
+- `med_history.txt` - generated medication log file
 
 ## Skills Demonstratedb
-• Python GUI development
-• Hardware/software integration
-• Real-time monitoring
-• API integration
-• Team-based hackathon development
+- Python GUI development
+- Hardware/software integration
+- Real-time monitoring
+- API integration
+- Team-based hackathon development
